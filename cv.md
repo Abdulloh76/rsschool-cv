@@ -1,7 +1,7 @@
 1. Abdullokh, Musaev
 2. email: musayevabdulloh76@gmail.com; telegram: @abdulloh76; phone_number: +998935607059;
 3. Summary (general goal to be developer.
-Self presentation. Try to learn evrything quickly and good enugh. 
+Self presentation. Try to learn evrything quickly and good enough. 
 Try to learn everything from evrywhere(within a reasonable))
 4. Basics of html & css; basics of git; Basics of c++; 
 5. 
