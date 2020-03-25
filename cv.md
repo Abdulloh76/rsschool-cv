@@ -1,11 +1,34 @@
-1. Abdullokh, Musaev
-2. email: musayevabdulloh76@gmail.com; telegram: @abdulloh76; phone_number: +998935607059;
-3. Summary (general goal to be developer.
-Self presentation. First of all I try to be conscientious.
-Try to learn everything quickly and good enough. 
-Try to learn everything from everywhere (within a reasonable))
-4. Basics of html & css; basics of git; Basics of c++; 
-5. Code examples (LATEST). none
-6. Not any experience 
-7. 1st year student in TUIT(Tashkent University of IT); online learning
-8. Intermediate student (B1) 
+# CV | RSSchool
+
+## Abdullokh, Musaev
+
+![My photo](https://github.com/Abdulloh76/rsschool-cv/images/my-photo.jpg)
+
+## Contacts
+* Phone: +998(93) 560-70-59
+* Telegram: [@abdulloh76](https://t.me/abdulloh76)
+* Email: [musayevabdulloh76@gmail.com](mailto:musayevabdulloh76@gmail.com)
+
+## Summary
+
+General goal to this year to find job as Junior Front-End Developer. Self-motivated, hard-working.
+
+## Skills
+
+* Basic level of C++
+* HTML/CSS
+* Basic level of JavaScript
+
+## Experience
+
+None
+
+## Education
+
+* Tashkent Professional College of Information Technologies 2016-2019
+* Tashkent University of Information Technologies *freshman*
+
+## English
+
+My english level is B1
+
