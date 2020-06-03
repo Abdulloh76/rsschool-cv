@@ -2,7 +2,7 @@
 
 ## Abdullokh, Musaev
 
-![My photo](https://github.com/Abdulloh76/rsschool-cv/images/my-photo.jpg)
+![My photo](https://raw.githubusercontent.com/Abdulloh76/rsschool-cv/gh-pages/images/my-photo.jpg)
 
 ## Contacts
 * Phone: +998(93) 560-70-59
