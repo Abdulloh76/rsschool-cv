@@ -9,24 +9,32 @@
 * Telegram: [@abdulloh76](https://t.me/abdulloh76)
 * Email: [musayevabdulloh76@gmail.com](mailto:musayevabdulloh76@gmail.com)
 
-## Summary
+## Personal qualities
 
-General goal to this year to find job as Junior Front-End Developer. Self-motivated, hard-working.
+Self-motivated, hard-working, interested in details, willing to learn.
 
 ## Skills
 
 * Basic level of C++
 * HTML/CSS
+* CSS preprocessor SCSS
+* Basic level of git
 * Basic level of JavaScript
 
 ## Experience
 
 None
 
+## Student projects
+
+* english for kids (https://abdulloh76-english-for-kids.netlify.app/) and repo (https://github.com/Abdulloh76/english-for-kids/tree/english-for-kids)
+* virtual keyboard (https://Abdulloh76.github.io/virtual-keyboard/) and repo (https://github.com/Abdulloh76/virtual-keyboard)
+* singolo (https://abdulloh76.github.io/singolo/) and repo (https://github.com/Abdulloh76/singolo)
+
 ## Education
 
 * Tashkent Professional College of Information Technologies 2016-2019
-* Tashkent University of Information Technologies *freshman*
+* Tashkent University of Information Technologies *freshman* (present days)
 
 ## English
 
