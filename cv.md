@@ -27,9 +27,9 @@ None
 
 ## Student projects
 
-* english for kids (https://abdulloh76-english-for-kids.netlify.app/) and repo (https://github.com/Abdulloh76/english-for-kids/tree/english-for-kids)
-* virtual keyboard (https://Abdulloh76.github.io/virtual-keyboard/) and repo (https://github.com/Abdulloh76/virtual-keyboard)
-* singolo (https://abdulloh76.github.io/singolo/) and repo (https://github.com/Abdulloh76/singolo)
+* [english for kids](https://abdulloh76-english-for-kids.netlify.app/) and [repo](https://github.com/Abdulloh76/english-for-kids/tree/english-for-kids)
+* [virtual keyboard](https://Abdulloh76.github.io/virtual-keyboard/) and [repo](https://github.com/Abdulloh76/virtual-keyboard)
+* [singolo](https://abdulloh76.github.io/singolo/) and [repo](https://github.com/Abdulloh76/singolo)
 
 ## Education
 
