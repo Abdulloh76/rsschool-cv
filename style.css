@@ -1,0 +1,30 @@
+div.content {
+    max-width: 1012px;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: Calibri, sans-serif;
+    line-height: 1.5;
+}
+div.skill-list {
+    margin-left: 15%;
+    font-size: 105%;
+}
+#my-photo {
+    height: 14em;
+}
+h1 {
+    border-bottom: 1px solid #eaecef;
+    margin-bottom: 100;
+    font-size: 2em;
+}
+a {
+    font-family: 'Segoe UI', 'Tahoma', 'Geneva', 'Verdana', sans-serif;
+    font-style: none;
+    font-weight: 500;
+    color: royalblue;
+}
+a:hover {
+    font-style: underline;
+}
