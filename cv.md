@@ -16,7 +16,7 @@
 
 ## Summary
 
-I am interested in web-technologies. Since school time I was really into math, but I was very indecisive what job I will work on(choose). I try myself in 2d, 3d graphics (very basics) but I found programming enjoyable for me. And I found debugging time very interesting: when you are looking for problems(errors) in your code; you browse your code step by step(area where is the error).
+I am interested in web-technologies. Since school time I was really into math, but I was very indecisive what job I will work on(choose). I try myself in graphics (very basics) but I found programming enjoyable for me. And I found debugging time very interesting: when you are looking for problems(errors) in your code; you browse your code step by step(area where is the error).
 
 And now my goal is to grow up to junior front-end developer and find a job where I will have an interesting tasks ...
 
@@ -27,14 +27,14 @@ Self-motivated, hard-working, interested in details, willing to learn.
 ##### Languages
 * HTML
 * CSS,SCSS
-* JavaScript(ES5,ES6)
+* JavaScript(ES5,ES6+)
 * TypeScript
 
 ##### Version Vontrol System
 * Git
 
 ##### Frameworks/Libraries
-* Phaser
+* React (learning)
 
 ##### Tools
 * Webpack
@@ -54,6 +54,7 @@ Self-motivated, hard-working, interested in details, willing to learn.
 * Github [@Abdulloh76](https://github.com/Abdulloh76)
 
 ## Experience (student projects)
+Experience in student projects 6+ month
 
 * [Kingdom-rush](https://kingdom-rush-rsclone.netlify.app/) team work, a clone of the popular game [repo](https://github.com/Iogsotot/rsclone)
 
@@ -65,8 +66,9 @@ Self-motivated, hard-working, interested in details, willing to learn.
 * [momentum](https://rolling-scopes-school.github.io/abdulloh76-JS2020Q3/momentum/) focusing application(even has weather forecast and you can change it)
 * [virtual keyboard](https://rolling-scopes-school.github.io/abdulloh76-JS2020Q3/virtual-keyboard/)
 
+* *markup* [singolo](https://abdulloh76.github.io/singolo/)
 * *MPA* [shelter](https://rolling-scopes-school.github.io/abdulloh76-JS2020Q3/shelter/pages/main/) about pets(dogs, cats)
-* *SPA* [english for kids](https://abdulloh76-english-for-kids.netlify.app/) and [repo](https://github.com/Abdulloh76/english-for-kids/tree/english-for-kids) platform for learning some english words(not completed project)
+* *SPA* [english for kids](https://abdulloh76-english-for-kids.netlify.app/) and [repo](https://github.com/Abdulloh76/english-for-kids/tree/english-for-kids) platform for learning some english words
 
 
 ## Education
@@ -74,8 +76,9 @@ Self-motivated, hard-working, interested in details, willing to learn.
 * Tashkent Professional College of Information Technologies 2016-2019
 * Online learning (youtube, online courses, ...)
 * Tashkent University of Information Technologies **sophomore** (present days)
-* [RSSchool](https://rs.school/) JS2020Q3  
+* [RSSchool](https://rs.school/) JS/FrontEnd [certificate](https://app.rs.school/certificate/s18uu2ld)
+* [RSSchool](https://rs.school/) React (in progress)
 
 ## English
 
-My english level is about btw A2+ and B1
+My english level is B1
