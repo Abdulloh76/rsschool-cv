@@ -29,6 +29,7 @@ Self-motivated, hard-working, interested in details, willing to learn.
 * CSS,SCSS
 * JavaScript(ES5,ES6+)
 * TypeScript
+* SQL (RDBMS: MySQL, PostgreSQL)
 
 ##### Version Vontrol System
 * Git
